@@ -7,6 +7,7 @@ comp_score = 0
 player_score = 0
 
 while True:
+    
     comp = random.choice(options)
     player = input("Enter your choice from Rock, Paper or Scissors or q to quit: ")
 
